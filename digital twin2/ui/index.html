@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vancomycin Precision Dosing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <h1>Vancomycin Precision Dosing</h1>
+      <p>Clinical decision support for predicted serum trough levels</p>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <form id="vanco-form" novalidate>
+      <!-- Patient Demographics & Vitals -->
+      <section class="card">
+        <h2 class="card-title">
+          <span class="card-title-icon" aria-hidden="true">&#9829;</span>
+          Patient Demographics &amp; Vitals
+        </h2>
+        <div class="form-grid">
+          <div class="form-group">
+            <label for="age">Age <span class="unit">(years)</span></label>
+            <input type="text" id="age" name="age" placeholder="e.g. 65" value="" required>
+          </div>
+          <div class="form-group">
+            <label for="gender">Gender</label>
+            <select id="gender" name="gender" required>
+              <option value="" disabled selected>Select gender...</option>
+              <option value="Male">Male</option>
+              <option value="Female">Female</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="admissionweight">Admission Weight <span class="unit">(kg)</span></label>
+            <input type="text" id="admissionweight" name="admissionweight" placeholder="e.g. 75.0" value="" required>
+          </div>
+          <div class="form-group">
+            <label for="creatinine">Creatinine <span class="unit">(mg/dL)</span></label>
+            <input type="text" id="creatinine" name="creatinine" placeholder="e.g. 1.0" value="" required>
+          </div>
+          <div class="form-group">
+            <label for="bun">BUN <span class="unit">(mg/dL)</span></label>
+            <input type="text" id="bun" name="bun" placeholder="e.g. 15" value="" required>
+          </div>
+          <div class="form-group">
+            <label for="unittype">Unit Type</label>
+            <select id="unittype" name="unittype" required>
+              <option value="" disabled selected>Select unit type...</option>
+              <option value="Med-Surg ICU">Med-Surg ICU</option>
+              <option value="MICU">MICU</option>
+              <option value="SICU">SICU</option>
+              <option value="CSICU">CSICU</option>
+              <option value="CTICU">CTICU</option>
+              <option value="Cardiac ICU">Cardiac ICU</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <!-- Dosing Parameters -->
+      <section class="card">
+        <h2 class="card-title">
+          <span class="card-title-icon" aria-hidden="true">&#9881;</span>
+          Dosing Parameters
+        </h2>
+        <div class="form-grid">
+          <div class="form-group">
+            <label for="level_type">Level Type</label>
+            <select id="level_type" name="level_type" required>
+              <option value="" disabled selected>Select level type...</option>
+              <option value="Vancomycin - trough">Vancomycin - trough</option>
+              <option value="Vancomycin - random">Vancomycin - random</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="dose_amount_mg">Dose Amount <span class="unit">(mg)</span></label>
+            <input type="text" id="dose_amount_mg" name="dose_amount_mg" placeholder="e.g. 1000" value="" required>
+          </div>
+          <div class="form-group">
+            <label for="dose_raw">Dose Raw</label>
+            <select id="dose_raw" name="dose_raw" required>
+              <option value="" disabled selected>Select dose raw...</option>
+              <option value="1 G">1 G</option>
+              <option value="1 GM">1 GM</option>
+              <option value="1 g">1 g</option>
+              <option value="1,000 MG">1,000 MG</option>
+              <option value="1,000 mg">1,000 mg</option>
+              <option value="1,250 3">1,250 3</option>
+              <option value="1,250 mg">1,250 mg</option>
+              <option value="1,500 mg">1,500 mg</option>
+              <option value="1000 MG">1000 MG</option>
+              <option value="125 MG">125 MG</option>
+              <option value="1250 MG">1250 MG</option>
+              <option value="1500 MG">1500 MG</option>
+              <option value="1750 MG">1750 MG</option>
+              <option value="2,000 mg">2,000 mg</option>
+              <option value="2000 MG">2000 MG</option>
+              <option value="250 mg">250 mg</option>
+              <option value="500 mg">500 mg</option>
+              <option value="600 MG">600 MG</option>
+              <option value="750 MG">750 MG</option>
+              <option value="750 mg">750 mg</option>
+              <option value="900 MG">900 MG</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="dose_route">Dose Route</label>
+            <select id="dose_route" name="dose_route" required>
+              <option value="" disabled selected>Select dose route...</option>
+              <option value=".ROUTE">.ROUTE</option>
+              <option value="IV">IV</option>
+              <option value="IVPB">IVPB</option>
+              <option value="Intravenous">Intravenous</option>
+              <option value="PO">PO</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="dose_frequency">Dose Frequency</label>
+            <select id="dose_frequency" name="dose_frequency" required>
+              <option value="" disabled selected>Select dose frequency...</option>
+              <option value=".STK-MED">.STK-MED</option>
+              <option value="12H">12H</option>
+              <option value="BID">BID</option>
+              <option value="DAILY">DAILY</option>
+              <option value="DIALYSIS X99">DIALYSIS X99</option>
+              <option value="Daily">Daily</option>
+              <option value="Every 12 hours">Every 12 hours</option>
+              <option value="Every Other Day">Every Other Day</option>
+              <option value="NOW">NOW</option>
+              <option value="ONCALL">ONCALL</option>
+              <option value="ONCALL X1">ONCALL X1</option>
+              <option value="ONCE X1">ONCE X1</option>
+              <option value="ONE">ONE</option>
+              <option value="ONE TIME One Time Stat">ONE TIME One Time Stat</option>
+              <option value="Once">Once</option>
+              <option value="Once PRN X1">Once PRN X1</option>
+              <option value="Once X1">Once X1</option>
+              <option value="PRN">PRN</option>
+              <option value="Q12H">Q12H</option>
+              <option value="Q12H (int)">Q12H (int)</option>
+              <option value="Q12H SCH">Q12H SCH</option>
+              <option value="Q18H">Q18H</option>
+              <option value="Q24H">Q24H</option>
+              <option value="Q48H">Q48H</option>
+              <option value="Q8H">Q8H</option>
+              <option value="Q8H (int)">Q8H (int)</option>
+              <option value="QHS">QHS</option>
+              <option value="QID">QID</option>
+              <option value="See Admin Instructions">See Admin Instructions</option>
+              <option value="X1 M719">X1 M719</option>
+              <option value="q 12 hour">q 12 hour</option>
+              <option value="q 24 h">q 24 h</option>
+              <option value="q 8 hour">q 8 hour</option>
+              <option value="q12hr">q12hr</option>
+              <option value="q24hr">q24hr</option>
+              <option value="q6hr">q6hr</option>
+            </select>
+          </div>
+          <div class="form-group full-width">
+            <label for="dose_drugname">Dose Drug Name</label>
+            <select id="dose_drugname" name="dose_drugname" required>
+              <option value="" disabled selected>Select drug name...</option>
+              <option value="VANCOMYCIN">VANCOMYCIN</option>
+              <option value="VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE)">VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE)</option>
+              <option value="VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL">VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL</option>
+              <option value="VANCOMYCIN 1.25 GM IN NS 250 ML IVPB (REPACKAGE)">VANCOMYCIN 1.25 GM IN NS 250 ML IVPB (REPACKAGE)</option>
+              <option value="VANCOMYCIN HCL">VANCOMYCIN HCL</option>
+              <option value="VANCOMYCIN HCL 1 GM VIAL">VANCOMYCIN HCL 1 GM VIAL</option>
+              <option value="VANCOMYCIN HCL 10 G IV SOLR">VANCOMYCIN HCL 10 G IV SOLR</option>
+              <option value="VANCOMYCIN HCL 1000 MG IV SOLR">VANCOMYCIN HCL 1000 MG IV SOLR</option>
+              <option value="VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN">VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN</option>
+              <option value="VANCOMYCIN INJ 1,000 MG VIAL.">VANCOMYCIN INJ 1,000 MG VIAL.</option>
+              <option value="VANCOmycin 1 GM in NS 250 mL IVPB">VANCOmycin 1 GM in NS 250 mL IVPB</option>
+              <option value="VANCOmycin 1.25 GM in NS 500ML IVPB">VANCOmycin 1.25 GM in NS 500ML IVPB</option>
+              <option value="VANCOmycin 1.5 GM in NS 500ML IVPB">VANCOmycin 1.5 GM in NS 500ML IVPB</option>
+              <option value="VANCOmycin 750 MG in NS 250 mL IVPB">VANCOmycin 750 MG in NS 250 mL IVPB</option>
+              <option value="vancomycin">vancomycin</option>
+              <option value="vancomycin hcl 1000 mg iv solr">vancomycin hcl 1000 mg iv solr</option>
+              <option value="vancomycin in D5W (VANCOCIN) ivpb 1 g">vancomycin in D5W (VANCOCIN) ivpb 1 g</option>
+            </select>
+          </div>
+
+          <!-- Dose Offset is visible and user-editable -->
+          <div class="form-group">
+            <label for="dose_offset">Dose Offset <span class="unit">(minutes)</span></label>
+            <input type="text" id="dose_offset" name="dose_offset" placeholder="e.g. -2525" value="" required>
+          </div>
+
+          <!-- Dose Parse Status is hidden and hardcoded to 'ok' -->
+          <input type="hidden" id="dose_parse_status" name="dose_parse_status" value="ok">
+        </div>
+
+        <div class="actions">
+          <button type="submit" id="submit-btn" class="btn-primary">
+            <span class="btn-spinner" aria-hidden="true"></span>
+            <span class="btn-label">Calculate Vancomycin Trough Level</span>
+          </button>
+        </div>
+      </section>
+    </form>
+
+    <!-- Result -->
+    <section id="result-card" class="card result-card" aria-live="polite">
+      <div id="error-block" hidden>
+        <p class="error-message">
+          <span class="error-title">Unable to calculate level</span>
+          <span id="error-text"></span>
+        </p>
+      </div>
+
+      <div id="result-content" hidden>
+        <div class="result-header">
+          <div>
+            <p class="result-label">Predicted Vancomycin Serum Level</p>
+            <p class="result-value">
+              <span id="result-value">—</span><span class="unit">mcg/mL</span>
+            </p>
+          </div>
+          <span id="status-badge" class="status-badge target">
+            <span class="status-dot"></span>Target Range
+          </span>
+        </div>
+
+        <div class="range-section">
+          <div class="range-labels">
+            <span>0</span>
+            <span>10</span>
+            <span>20</span>
+            <span>30+</span>
+          </div>
+          <div class="range-track" role="img" aria-label="Therapeutic range indicator">
+            <div class="range-segment subtherapeutic"></div>
+            <div class="range-segment target"></div>
+            <div class="range-segment high"></div>
+            <div id="range-marker" class="range-marker" style="left: 0%"></div>
+          </div>
+          <div class="range-legend">
+            <span class="legend-item">
+              <span class="legend-swatch subtherapeutic"></span> Subtherapeutic &lt;10
+            </span>
+            <span class="legend-item">
+              <span class="legend-swatch target"></span> Target 10–20
+            </span>
+            <span class="legend-item">
+              <span class="legend-swatch high"></span> High &gt;20
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    For clinical decision support only. Verify predictions against institutional protocols and patient-specific factors.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

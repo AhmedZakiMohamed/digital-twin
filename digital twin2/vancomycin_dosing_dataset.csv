@@ -1,0 +1,217 @@
+patientunitstayid,level_offset,level_type,vancomycin_level,dose_offset,dose_raw,dose_route,dose_frequency,dose_drugname,creatinine,bun,age,gender,admissionweight,unittype,dose_amount_mg,dose_parse_status
+758779,4850,Vancomycin - trough,18.1,-2525.0,"1,500 mg",IVPB,QHS,VANCOmycin 1.5 GM in NS 500ML IVPB,0.88,17.0,67.0,Female,106.8,Med-Surg ICU,1500.0,ok
+1781359,8598,Vancomycin - trough,12.8,2923.0,1250 MG,IV,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.63,15.0,59.0,Male,68.0,SICU,1250.0,ok
+1781359,2133,Vancomycin - trough,12.1,613.0,1000 MG,IV,Q12H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),0.8,37.0,59.0,Male,68.0,SICU,1000.0,ok
+1781359,5056,Vancomycin - trough,16.8,2923.0,1250 MG,IV,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.62,20.0,59.0,Male,68.0,SICU,1250.0,ok
+166175,3823,Vancomycin - random,5.9,333.0,"1,250 3",IV,Q12H,VANCOMYCIN 1.25 GM IN NS 250 ML IVPB (REPACKAGE),0.8,9.0,60.0,Male,107.9,Med-Surg ICU,1250.0,ok_trailing_code
+741996,4874,Vancomycin - trough,13.9,2019.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,1.1,32.0,79.0,Male,,Med-Surg ICU,1000.0,ok
+741996,7780,Vancomycin - trough,22.8,2019.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,0.93,39.0,79.0,Male,,Med-Surg ICU,1000.0,ok
+741996,5539,Vancomycin - trough,9.5,2019.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,1.1,32.0,79.0,Male,,Med-Surg ICU,1000.0,ok
+1059935,16905,Vancomycin - trough,24.7,14072.0,"1,500 mg",IVPB,q24hr,vancomycin,1.19,17.0,76.0,Male,86.9,CTICU,1500.0,ok
+1059935,19851,Vancomycin - random,21.3,18392.0,"1,000 mg",IVPB,q24hr,vancomycin,1.71,10.0,76.0,Male,86.9,CTICU,1000.0,ok
+219981,7447,Vancomycin - trough,4.2,2094.0,1000 MG,IV,Daily,VANCOMYCIN HCL 1000 MG IV SOLR,1.16,25.0,58.0,Female,107.9,Med-Surg ICU,1000.0,ok
+2416376,8103,Vancomycin - trough,25.2,4881.0,1250 MG,IV,,"VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL",1.12,70.0,71.0,Male,82.2,SICU,1250.0,ok
+2416376,12849,Vancomycin - trough,22.1,8601.0,1250 MG,IV,q 24 h,"VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL",1.23,101.0,71.0,Male,82.2,SICU,1250.0,ok
+1072171,3946,Vancomycin - trough,8.9,1646.0,"1,000 mg",IVPB,q12hr,vancomycin,0.44,6.0,61.0,Female,68.3,SICU,1000.0,ok
+1072171,6931,Vancomycin - trough,21.2,1646.0,"1,000 mg",IVPB,q12hr,vancomycin,0.42,14.0,61.0,Female,68.3,SICU,1000.0,ok
+3239262,9877,Vancomycin - trough,21.4,6652.0,900 MG,IV,,VANCOMYCIN HCL,2.7,73.0,88.0,Male,83.3,Med-Surg ICU,900.0,ok
+3239262,4822,Vancomycin - trough,9.2,1972.0,750 MG,IV,,VANCOMYCIN HCL,2.1,62.0,88.0,Male,83.3,Med-Surg ICU,750.0,ok
+3239262,16424,Vancomycin - trough,19.5,12232.0,125 MG,PO,QID,VANCOMYCIN HCL,2.31,92.0,88.0,Male,83.3,Med-Surg ICU,125.0,ok
+151900,3080,Vancomycin - trough,15.5,1535.0,"1,250 3",IV,Daily,VANCOMYCIN 1.25 GM IN NS 250 ML IVPB (REPACKAGE),0.86,16.0,66.0,Female,86.8,MICU,1250.0,ok_trailing_code
+823557,-9083,Vancomycin - trough,10.1,-10488.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,0.8,9.0,62.0,Male,71.7,Med-Surg ICU,1000.0,ok
+823557,-7573,Vancomycin - trough,16.6,-8268.0,"1,500 mg",IVPB,Q12H,VANCOmycin 1.5 GM in NS 500ML IVPB,0.7,6.0,62.0,Male,71.7,Med-Surg ICU,1500.0,ok
+3237226,18618,Vancomycin - trough,21.2,17223.0,750 MG,IV,,VANCOMYCIN HCL,0.38,12.0,63.0,Female,77.08,Med-Surg ICU,750.0,ok
+3237226,16552,Vancomycin - trough,20.4,14163.0,1000 MG,IV,,VANCOMYCIN HCL,0.38,12.0,63.0,Female,77.08,Med-Surg ICU,1000.0,ok
+308316,727,Vancomycin - trough,18.7,-693.0,1250 MG,IV,Q12H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.12,27.0,67.0,Male,86.3,Med-Surg ICU,1250.0,ok
+1293742,22932,Vancomycin - trough,17.0,18015.0,1000 MG,IV,Q12H SCH,vancomycin hcl 1000 mg iv solr,0.7,18.0,59.0,Female,75.8,Med-Surg ICU,1000.0,ok
+1293742,25818,Vancomycin - trough,15.4,18015.0,1000 MG,IV,Q12H SCH,vancomycin hcl 1000 mg iv solr,0.7,17.0,59.0,Female,75.8,Med-Surg ICU,1000.0,ok
+1290999,4526,Vancomycin - trough,5.4,4404.0,1000 MG,IV,,vancomycin hcl 1000 mg iv solr,0.7,3.8,31.0,Female,61.23,Med-Surg ICU,1000.0,ok
+1290999,3540,Vancomycin - trough,27.1,2124.0,1000 MG,IV,Q8H,vancomycin hcl 1000 mg iv solr,0.7,3.8,31.0,Female,61.23,Med-Surg ICU,1000.0,ok
+1290999,2010,Vancomycin - trough,22.5,1044.0,1250 MG,IV,Q8H,vancomycin hcl 1000 mg iv solr,0.6,4.6,31.0,Female,61.23,Med-Surg ICU,1250.0,ok
+1845580,11334,Vancomycin - trough,15.7,2769.0,1 GM,IV,Q8H,VANCOMYCIN HCL 1 GM VIAL,0.73,19.0,51.0,Male,65.9,Med-Surg ICU,1000.0,ok
+1845580,4225,Vancomycin - trough,15.8,2769.0,1 GM,IV,Q8H,VANCOMYCIN HCL 1 GM VIAL,0.73,7.0,51.0,Male,65.9,Med-Surg ICU,1000.0,ok
+1845580,2731,Vancomycin - trough,6.8,1254.0,1 GM,IV,Q12H,VANCOMYCIN HCL 1 GM VIAL,0.87,10.0,51.0,Male,65.9,Med-Surg ICU,1000.0,ok
+1063659,3575,Vancomycin - trough,12.0,3570.0,1000 MG,IV,,VANCOMYCIN,1.1,13.0,70.0,Female,68.2,MICU,1000.0,ok
+1063659,2071,Vancomycin - trough,9.8,630.0,1000 MG,IV,NOW,VANCOMYCIN,3.3,32.0,70.0,Female,68.2,MICU,1000.0,ok
+1809093,7762,Vancomycin - random,14.9,5000.0,1 GM,IV,ONE,VANCOMYCIN HCL 1 GM VIAL,4.47,20.0,69.0,Male,78.3,Med-Surg ICU,1000.0,ok
+1809093,12445,Vancomycin - random,19.6,10835.0,1 GM,IV,PRN,VANCOMYCIN HCL 1 GM VIAL,8.48,49.0,69.0,Male,78.3,Med-Surg ICU,1000.0,ok
+1809093,4792,Vancomycin - random,8.9,2510.0,1 GM,IV,ONE,VANCOMYCIN HCL 1 GM VIAL,4.53,22.0,69.0,Male,78.3,Med-Surg ICU,1000.0,ok
+837984,-975,Vancomycin - trough,20.0,-2360.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,2.0,25.0,43.0,Male,69.0,Med-Surg ICU,1000.0,ok
+899746,5114,Vancomycin - trough,16.1,2955.0,"1,250 mg",IVPB,Q12H,VANCOmycin 1.25 GM in NS 500ML IVPB,0.9,9.0,69.0,Male,80.9,Med-Surg ICU,1250.0,ok
+1672915,5802,Vancomycin - trough,19.0,2586.0,"2,000 mg",Intravenous,,vancomycin,0.63,22.0,72.0,Male,108.8,Med-Surg ICU,2000.0,ok
+589909,5334,Vancomycin - random,18.4,-32.0,"1,000 mg",IVPB,DIALYSIS X99,VANCOmycin 1 GM in NS 250 mL IVPB,3.75,34.0,34.0,Male,115.8,Med-Surg ICU,1000.0,ok
+304256,1366,Vancomycin - trough,25.4,66.0,2000 MG,IV,Q8H,"VANCOMYCIN INJ 1,000 MG VIAL.",0.9,14.0,31.0,Male,227.7,Med-Surg ICU,2000.0,ok
+1546668,1690,Vancomycin - random,15.1,-185.0,"1,000 mg",IV,Once,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,4.83,24.0,73.0,Male,65.4,MICU,1000.0,ok
+1546668,4495,Vancomycin - random,26.3,1795.0,"1,000 mg",IV,Once,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,3.95,34.0,73.0,Male,65.4,MICU,1000.0,ok
+1072172,8754,Vancomycin - trough,11.3,3044.0,"1,500 mg",IVPB,q24hr,vancomycin,0.53,24.0,61.0,Female,68.3,SICU,1500.0,ok
+1072172,23564,Vancomycin - trough,15.1,9104.0,500 mg,IVPB,Once,vancomycin,0.61,31.0,61.0,Female,68.3,SICU,500.0,ok
+1072172,13424,Vancomycin - trough,15.4,9104.0,500 mg,IVPB,Once,vancomycin,0.55,23.0,61.0,Female,68.3,SICU,500.0,ok
+1131143,14336,Vancomycin - trough,16.4,7014.0,750 MG,IVPB,Q12H,VANCOMYCIN HCL 10 G IV SOLR,0.6,35.0,78.0,Female,45.4,Med-Surg ICU,750.0,ok
+1131143,8425,Vancomycin - trough,16.6,7014.0,750 MG,IVPB,Q12H,VANCOMYCIN HCL 10 G IV SOLR,0.5,19.0,78.0,Female,45.4,Med-Surg ICU,750.0,ok
+1131143,6929,Vancomycin - trough,6.6,4074.0,750 MG,IVPB,Q24H,VANCOMYCIN HCL 10 G IV SOLR,0.5,17.0,78.0,Female,45.4,Med-Surg ICU,750.0,ok
+1131143,10586,Vancomycin - trough,20.5,7014.0,750 MG,IVPB,Q12H,VANCOMYCIN HCL 10 G IV SOLR,0.6,28.0,78.0,Female,45.4,Med-Surg ICU,750.0,ok
+1820689,5709,Vancomycin - trough,7.8,-41.0,1500 MG,IV,Q24H,VANCOMYCIN HCL 1000 MG IV SOLR,0.72,11.0,72.0,Female,103.9,MICU,1500.0,ok
+1820689,4226,Vancomycin - trough,7.7,-41.0,1500 MG,IV,Q24H,VANCOMYCIN HCL 1000 MG IV SOLR,0.63,14.0,72.0,Female,103.9,MICU,1500.0,ok
+184757,18147,Vancomycin - trough,2.3,15462.0,"1,250 3",IV,Daily,VANCOMYCIN 1.25 GM IN NS 250 ML IVPB (REPACKAGE),0.69,30.0,81.0,Female,54.6,MICU,1250.0,ok_trailing_code
+3207238,8512,Vancomycin - trough,15.6,6672.0,900 MG,IV,,VANCOMYCIN HCL,0.33,14.0,76.0,Female,65.17,Med-Surg ICU,900.0,ok
+2150580,2034,Vancomycin - trough,6.9,644.0,1500 MG,IV,q 12 hour,"VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL",0.75,20.0,47.0,Male,107.0,Med-Surg ICU,1500.0,ok
+2150580,4414,Vancomycin - trough,9.6,2504.0,1250 MG,IV,q 8 hour,"VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL",0.64,12.0,47.0,Male,107.0,Med-Surg ICU,1250.0,ok
+1441610,11594,Vancomycin - random,16.5,7310.0,"1,000 mg",IV,Q24H,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,1.05,29.0,87.0,Female,108.5,Med-Surg ICU,1000.0,ok
+1441610,6530,Vancomycin - trough,27.0,-85.0,"1,000 mg",IV,Once,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,1.16,23.0,87.0,Female,108.5,Med-Surg ICU,1000.0,ok
+1788166,2654,Vancomycin - trough,19.6,-3751.0,1750 MG,IV,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.26,25.0,67.0,Male,121.6,MICU,1750.0,ok
+1788166,-1696,Vancomycin - trough,15.5,-3751.0,1750 MG,IV,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.24,39.0,67.0,Male,121.6,MICU,1750.0,ok
+1795300,3287,Vancomycin - trough,6.1,362.0,1000 MG,IV,Q24H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),2.33,44.0,90.0,Male,63.5,Med-Surg ICU,1000.0,ok
+1795300,1667,Vancomycin - random,9.2,362.0,1000 MG,IV,Q24H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),2.79,41.0,90.0,Male,63.5,Med-Surg ICU,1000.0,ok
+1264637,2005,Vancomycin - random,25.2,127.0,1000 MG,IV,Once X1,vancomycin hcl 1000 mg iv solr,3.5,24.0,30.0,Female,49.6,Med-Surg ICU,1000.0,ok
+1264637,3347,Vancomycin - random,18.9,2647.0,750 MG,IV,,vancomycin hcl 1000 mg iv solr,2.9,15.0,30.0,Female,49.6,Med-Surg ICU,750.0,ok
+946151,5863,Vancomycin - trough,14.9,121.0,"1,000 mg",IVPB,Q24H,VANCOmycin 1 GM in NS 250 mL IVPB,1.1,12.0,88.0,Male,59.8,Med-Surg ICU,1000.0,ok
+1532382,1972,Vancomycin - random,17.0,-159.0,1500 MG,IV,Once,VANCOMYCIN HCL 10 G IV SOLR,1.15,18.0,62.0,Male,66.0,Med-Surg ICU,1500.0,ok
+2398822,2230,Vancomycin - trough,24.5,77.0,1750 MG,IV,q 12 hour,"VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL",0.9,13.0,55.0,Female,113.4,Med-Surg ICU,1750.0,ok
+1117947,4552,Vancomycin - random,13.56,3332.0,"1,000 mg",IVPB,ONCE X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.6,70.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,14582,Vancomycin - random,15.7,13322.0,"1,000 mg",IVPB,ONCALL,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.6,90.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,7367,Vancomycin - random,16.96,6002.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,3.1,89.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,23339,Vancomycin - random,23.62,22082.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.6,69.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,13167,Vancomycin - trough,21.6,10322.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,3.1,101.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,18972,Vancomycin - random,16.13,18962.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.0,65.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,21871,Vancomycin - random,16.8,20642.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,1.9,63.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,17522,Vancomycin - trough,25.1,14642.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.3,67.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,20372,Vancomycin - trough,22.6,19322.0,"1,000 mg",IVPB,Q48H,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.0,68.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,8882,Vancomycin - random,25.38,8882.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,3.3,101.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,16082,Vancomycin - random,20.86,14642.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.3,76.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,6012,Vancomycin - random,22.14,6002.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,2.9,82.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1117947,10177,Vancomycin - random,15.34,8882.0,"1,000 mg",IVPB,ONCALL X1,vancomycin in D5W (VANCOCIN) ivpb 1 g,3.4,106.0,79.0,Male,78.1,Med-Surg ICU,1000.0,ok
+1829278,3437,Vancomycin - trough,16.5,587.0,1500 MG,IV,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,1.46,8.0,52.0,Male,100.0,Med-Surg ICU,1500.0,ok
+1620730,1170,Vancomycin - random,22.3,632.0,2000 MG,IV,,VANCOMYCIN,3.99,64.0,38.0,Male,123.0,Med-Surg ICU,2000.0,ok
+1620730,2828,Vancomycin - random,21.9,1412.0,2000 MG,IV,X1 M719,VANCOMYCIN,3.0,46.0,38.0,Male,123.0,Med-Surg ICU,2000.0,ok
+1620730,2492,Vancomycin - random,25.1,1412.0,2000 MG,IV,X1 M719,VANCOMYCIN,3.0,46.0,38.0,Male,123.0,Med-Surg ICU,2000.0,ok
+1620730,457,Vancomycin - random,2.7,332.0,2000 MG,IV,,VANCOMYCIN,5.66,84.0,38.0,Male,123.0,Med-Surg ICU,2000.0,ok
+1806949,5069,Vancomycin - trough,2.1,2141.0,1250 MG,IV,Q24H,VANCOMYCIN HCL 1000 MG IV SOLR,1.2,33.0,52.0,Male,95.0,Med-Surg ICU,1250.0,ok
+3114713,1415,Vancomycin - trough,6.3,-102.0,1 G,IV,ONE TIME One Time Stat,vancomycin,2.41,48.0,83.0,Male,66.4,Med-Surg ICU,1000.0,ok
+3114713,7805,Vancomycin - trough,27.9,4115.0,1 G,IV,,vancomycin,1.81,32.0,83.0,Male,66.4,Med-Surg ICU,1000.0,ok
+3114713,230,Vancomycin - random,8.8,-102.0,1 G,IV,ONE TIME One Time Stat,vancomycin,2.41,48.0,83.0,Male,66.4,Med-Surg ICU,1000.0,ok
+3114713,4026,Vancomycin - trough,13.7,1445.0,1 G,IV,,vancomycin,1.97,42.0,83.0,Male,66.4,Med-Surg ICU,1000.0,ok
+3114713,8438,Vancomycin - trough,25.1,4115.0,1 G,IV,,vancomycin,1.81,32.0,83.0,Male,66.4,Med-Surg ICU,1000.0,ok
+3114713,2933,Vancomycin - trough,9.0,1445.0,1 G,IV,,vancomycin,2.22,47.0,83.0,Male,66.4,Med-Surg ICU,1000.0,ok
+1856821,9179,Vancomycin - random,15.3,9144.0,1250 MG,IV,,VANCOMYCIN HCL 1000 MG IV SOLR,2.79,58.0,77.0,Female,109.5,MICU,1250.0,ok
+1856821,144,Vancomycin - random,14.0,-2376.0,1500 MG,IV,,VANCOMYCIN HCL 1000 MG IV SOLR,2.93,53.0,77.0,Female,109.5,MICU,1500.0,ok
+1856821,-2386,Vancomycin - random,20.3,-3816.0,1500 MG,IV,See Admin Instructions,VANCOMYCIN HCL 1000 MG IV SOLR,3.27,56.0,77.0,Female,109.5,MICU,1500.0,ok
+1856821,-5286,Vancomycin - random,23.5,-5309.0,1500 MG,IV,Once PRN X1,VANCOMYCIN HCL 1000 MG IV SOLR,,,77.0,Female,109.5,MICU,1500.0,ok
+1856821,6715,Vancomycin - random,20.5,504.0,1250 MG,IV,,VANCOMYCIN HCL 1000 MG IV SOLR,2.56,52.0,77.0,Female,109.5,MICU,1250.0,ok
+1856821,11829,Vancomycin - trough,16.6,9144.0,1250 MG,IV,,VANCOMYCIN HCL 1000 MG IV SOLR,2.56,51.0,77.0,Female,109.5,MICU,1250.0,ok
+1772933,-1162,Vancomycin - trough,5.6,-4087.0,1 GM,IV,Q24H,VANCOMYCIN HCL 1 GM VIAL,1.56,28.0,81.0,Male,80.4,Med-Surg ICU,1000.0,ok
+1625701,22404,Vancomycin - trough,15.7,-1681.0,600 MG,Intravenous,Every 12 hours,vancomycin,0.38,4.0,46.0,Female,33.0,Cardiac ICU,600.0,ok
+1625701,25269,Vancomycin - trough,17.7,-1681.0,600 MG,Intravenous,Every 12 hours,vancomycin,0.39,4.0,46.0,Female,33.0,Cardiac ICU,600.0,ok
+1625701,1495,Vancomycin - trough,14.8,-1681.0,600 MG,Intravenous,Every 12 hours,vancomycin,0.5,16.0,46.0,Female,33.0,Cardiac ICU,600.0,ok
+717631,774,Vancomycin - trough,10.7,-2706.0,"1,000 mg",IVPB,Q8H (int),VANCOmycin 1 GM in NS 250 mL IVPB,1.13,12.0,60.0,Male,87.1,CSICU,1000.0,ok
+1248493,680,Vancomycin - random,10.0,129.0,1000 MG,IV,Once X1,vancomycin hcl 1000 mg iv solr,1.0,42.0,88.0,Female,85.0,Med-Surg ICU,1000.0,ok
+788008,-1439,Vancomycin - trough,8.0,-4329.0,"1,000 mg",IVPB,Q24H,VANCOmycin 1 GM in NS 250 mL IVPB,1.1,12.0,82.0,Male,62.7,Med-Surg ICU,1000.0,ok
+1084013,13679,Vancomycin - random,20.8,-194.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,0.5,17.0,77.0,Female,85.3,Med-Surg ICU,1750.0,ok
+1084013,5443,Vancomycin - random,21.9,-194.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,0.6,10.0,77.0,Female,85.3,Med-Surg ICU,1750.0,ok
+1084013,2696,Vancomycin - random,22.5,-194.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,0.6,17.0,77.0,Female,85.3,Med-Surg ICU,1750.0,ok
+674731,3066,Vancomycin - trough,6.0,956.0,750 mg,IVPB,Q12H (int),VANCOmycin 750 MG in NS 250 mL IVPB,0.8,18.0,68.0,Female,54.0,Med-Surg ICU,750.0,ok
+674731,5941,Vancomycin - trough,13.0,3116.0,"1,000 mg",IVPB,Q12H,VANCOmycin 1 GM in NS 250 mL IVPB,0.7,21.0,68.0,Female,54.0,Med-Surg ICU,1000.0,ok
+1105833,3644,Vancomycin - random,16.9,824.0,"1,000 mg",IV,Q24H,vancomycin in D5W (VANCOCIN) ivpb 1 g,1.2,38.0,77.0,Female,65.8,Med-Surg ICU,1000.0,ok
+3075813,7025,Vancomycin - random,18.4,1755.0,1 G,IV,,vancomycin,2.23,31.0,83.0,Male,80.7,Med-Surg ICU,1000.0,ok
+3075813,4672,Vancomycin - trough,16.3,1755.0,1 G,IV,,vancomycin,3.01,42.0,83.0,Male,80.7,Med-Surg ICU,1000.0,ok
+3075813,6055,Vancomycin - trough,22.7,1755.0,1 G,IV,,vancomycin,2.61,39.0,83.0,Male,80.7,Med-Surg ICU,1000.0,ok
+3075813,7785,Vancomycin - random,15.3,1755.0,1 G,IV,,vancomycin,2.23,31.0,83.0,Male,80.7,Med-Surg ICU,1000.0,ok
+205928,3422,Vancomycin - trough,5.8,3272.0,"1,250 3",IV,Every Other Day,VANCOMYCIN 1.25 GM IN NS 250 ML IVPB (REPACKAGE),0.99,11.0,56.0,Female,119.9,Med-Surg ICU,1250.0,ok_trailing_code
+267196,2743,Vancomycin - trough,13.0,635.0,1750 MG,IV,Q12H,"VANCOMYCIN INJ 1,000 MG VIAL.",0.6,7.0,55.0,Male,136.7,Med-Surg ICU,1750.0,ok
+3235765,4478,Vancomycin - trough,7.0,1583.0,600 MG,IV,,VANCOMYCIN HCL,0.62,13.0,69.0,Female,68.94,Med-Surg ICU,600.0,ok
+1303268,3479,Vancomycin - random,47.1,3259.0,1500 MG,IV,Q24H,vancomycin hcl 1000 mg iv solr,2.0,16.0,72.0,Female,103.42,Med-Surg ICU,1500.0,ok
+1303268,5109,Vancomycin - random,26.3,3259.0,1500 MG,IV,Q24H,vancomycin hcl 1000 mg iv solr,1.8,16.0,72.0,Female,103.42,Med-Surg ICU,1500.0,ok
+1303268,-8031,Vancomycin - random,13.1,-9761.0,1500 MG,IV,Q48H,vancomycin hcl 1000 mg iv solr,1.4,15.0,72.0,Female,103.42,Med-Surg ICU,1500.0,ok
+1303268,-4636,Vancomycin - trough,15.8,-7541.0,1500 MG,IV,Q24H,vancomycin hcl 1000 mg iv solr,1.2,5.0,72.0,Female,103.42,Med-Surg ICU,1500.0,ok
+1303268,6537,Vancomycin - random,19.8,3259.0,1500 MG,IV,Q24H,vancomycin hcl 1000 mg iv solr,1.7,17.0,72.0,Female,103.42,Med-Surg ICU,1500.0,ok
+1558170,12057,Vancomycin - random,20.0,7756.0,1500 MG,Intravenous,,VANCOMYCIN HCL 1000 MG IV SOLR,3.14,40.0,64.0,Female,86.5,Med-Surg ICU,1500.0,ok
+1558170,17137,Vancomycin - random,19.0,12946.0,1250 MG,Intravenous,Once X1,VANCOMYCIN HCL 1000 MG IV SOLR,2.91,27.0,64.0,Female,86.5,Med-Surg ICU,1250.0,ok
+1558170,9892,Vancomycin - trough,28.0,7756.0,1500 MG,Intravenous,,VANCOMYCIN HCL 1000 MG IV SOLR,2.87,32.0,64.0,Female,86.5,Med-Surg ICU,1500.0,ok
+1558170,21437,Vancomycin - trough,18.0,17686.0,1250 MG,Intravenous,Once X1,VANCOMYCIN HCL 1000 MG IV SOLR,1.92,12.0,64.0,Female,86.5,Med-Surg ICU,1250.0,ok
+1558170,14238,Vancomycin - random,29.0,12946.0,1250 MG,Intravenous,Once X1,VANCOMYCIN HCL 1000 MG IV SOLR,2.97,34.0,64.0,Female,86.5,Med-Surg ICU,1250.0,ok
+1558170,22903,Vancomycin - random,28.0,21766.0,1 g,Intravenous,Once X1,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,2.6,15.0,64.0,Female,86.5,Med-Surg ICU,1000.0,ok
+910865,5696,Vancomycin - trough,19.4,5373.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,0.86,8.0,46.0,Male,66.1,Med-Surg ICU,1000.0,ok
+1858620,-15546,Vancomycin - trough,14.9,-19806.0,1250 MG,IV,,VANCOMYCIN HCL 1000 MG IV SOLR,2.66,31.0,65.0,Male,127.3,MICU,1250.0,ok
+939222,2295,Vancomycin - trough,19.5,895.0,750 mg,IVPB,Q12H (int),VANCOmycin 750 MG in NS 250 mL IVPB,0.54,15.0,65.0,Female,50.0,Med-Surg ICU,750.0,ok
+1833568,3376,Vancomycin - trough,25.5,776.0,1000 MG,IV,Q12H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),0.84,21.0,59.0,Male,63.5,SICU,1000.0,ok
+1833568,2951,Vancomycin - trough,44.9,776.0,1000 MG,IV,Q12H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),0.96,29.0,59.0,Male,63.5,SICU,1000.0,ok
+1837638,1062,Vancomycin - random,7.0,49.0,1 GM,IV,PRN,VANCOMYCIN HCL 1 GM VIAL,2.2,62.0,71.0,Male,83.0,Med-Surg ICU,1000.0,ok
+1090039,9737,Vancomycin - random,15.0,4067.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,2.19,43.0,77.0,Male,86.2,Med-Surg ICU,1750.0,ok
+1090039,22238,Vancomycin - random,22.9,20147.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,2.65,99.0,77.0,Male,86.2,Med-Surg ICU,1750.0,ok
+1090039,24427,Vancomycin - random,22.2,20147.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,2.8,97.0,77.0,Male,86.2,Med-Surg ICU,1750.0,ok
+1090039,21582,Vancomycin - random,14.0,20147.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,2.48,90.0,77.0,Male,86.2,Med-Surg ICU,1750.0,ok
+1090039,5379,Vancomycin - random,10.8,4067.0,1750 MG,IV,ONCE X1,VANCOMYCIN HCL 10 G IV SOLR,2.1,36.0,77.0,Male,86.2,Med-Surg ICU,1750.0,ok
+808118,18007,Vancomycin - trough,19.3,14763.0,"1,250 mg",IVPB,Q18H,VANCOmycin 1.25 GM in NS 500ML IVPB,0.5,3.0,74.0,Female,,Med-Surg ICU,1250.0,ok
+837709,1299,Vancomycin - random,10.8,96.0,750 mg,IVPB,,VANCOmycin 750 MG in NS 250 mL IVPB,2.5,60.0,57.0,Male,67.6,Med-Surg ICU,750.0,ok
+564216,5330,Vancomycin - trough,23.2,3190.0,"1,250 mg",IV,Q12H (int),VANCOmycin 1.25 GM in NS 500ML IVPB,1.66,30.0,54.0,Male,172.7,Med-Surg ICU,1250.0,ok
+3075364,571,Vancomycin - trough,4.4,-2.0,1 G,IV,,vancomycin,0.78,12.0,63.0,Female,43.8,Med-Surg ICU,1000.0,ok
+264276,12721,Vancomycin - random,15.8,7976.0,1500 MG,IV,Q18H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.24,41.0,37.0,Male,129.1,Med-Surg ICU,1500.0,ok
+264276,15696,Vancomycin - trough,14.9,7976.0,1500 MG,IV,Q18H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.18,34.0,37.0,Male,129.1,Med-Surg ICU,1500.0,ok
+264276,11576,Vancomycin - random,28.2,7976.0,1500 MG,IV,Q18H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.66,47.0,37.0,Male,129.1,Med-Surg ICU,1500.0,ok
+264276,4661,Vancomycin - trough,18.8,4616.0,1500 MG,IV,Q18H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.43,22.0,37.0,Male,129.1,Med-Surg ICU,1500.0,ok
+264276,10146,Vancomycin - trough,35.2,7976.0,1500 MG,IV,Q18H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.77,45.0,37.0,Male,129.1,Med-Surg ICU,1500.0,ok
+264276,3476,Vancomycin - trough,33.7,1376.0,1500 MG,IV,12H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.92,23.0,37.0,Male,129.1,Med-Surg ICU,1500.0,ok
+264276,9391,Vancomycin - trough,54.5,7976.0,1500 MG,IV,Q18H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.77,25.0,37.0,Male,129.1,Med-Surg ICU,1500.0,ok
+272886,21862,Vancomycin - trough,25.7,19739.0,1250 MG,IV,12H,"VANCOMYCIN INJ 1,000 MG VIAL.",0.7,31.0,76.0,Male,66.1,Med-Surg ICU,1250.0,ok
+272886,18979,Vancomycin - trough,15.8,14099.0,750 MG,IV,,"VANCOMYCIN INJ 1,000 MG VIAL.",0.7,31.0,76.0,Male,66.1,Med-Surg ICU,750.0,ok
+272886,16210,Vancomycin - trough,11.9,14099.0,750 MG,IV,,"VANCOMYCIN INJ 1,000 MG VIAL.",0.6,30.0,76.0,Male,66.1,Med-Surg ICU,750.0,ok
+294032,2684,Vancomycin - trough,8.3,1264.0,1250 MG,IV,Q12H,"VANCOMYCIN INJ 1,000 MG VIAL.",0.49,17.0,61.0,Male,57.8,Med-Surg ICU,1250.0,ok
+302226,2052,Vancomycin - trough,25.7,630.0,1250 MG,IV,Q12H,"VANCOMYCIN INJ 1,000 MG VIAL.",0.9,42.0,55.0,Female,110.0,Med-Surg ICU,1250.0,ok
+249328,9019,Vancomycin - trough,14.7,1829.0,1000 MG,IV,Q24H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.3,49.0,87.0,Male,95.5,Med-Surg ICU,1000.0,ok
+249328,4692,Vancomycin - trough,13.2,1829.0,1000 MG,IV,Q24H,"VANCOMYCIN INJ 1,000 MG VIAL.",1.6,39.0,87.0,Male,95.5,Med-Surg ICU,1000.0,ok
+249328,1529,Vancomycin - random,8.7,34.0,1000 MG,IV,ONE,"VANCOMYCIN INJ 1,000 MG VIAL.",2.2,33.0,87.0,Male,95.5,Med-Surg ICU,1000.0,ok
+1229669,2475,Vancomycin - random,19.4,194.0,1500 MG,IV,Once X1,vancomycin hcl 1000 mg iv solr,7.3,29.0,56.0,Female,111.8,Med-Surg ICU,1500.0,ok
+1229669,1112,Vancomycin - random,21.8,194.0,1500 MG,IV,Once X1,vancomycin hcl 1000 mg iv solr,6.6,29.0,56.0,Female,111.8,Med-Surg ICU,1500.0,ok
+1275596,2993,Vancomycin - trough,16.9,846.0,750 MG,IV,Q12H,vancomycin hcl 1000 mg iv solr,0.8,9.5,73.0,Female,77.2,Med-Surg ICU,750.0,ok
+1731654,6316,Vancomycin - random,20.6,-247.0,1 GM,.ROUTE,.STK-MED,VANCOMYCIN HCL,1.1,22.0,80.0,Male,98.7,Cardiac ICU,1000.0,ok
+1731654,3625,Vancomycin - trough,10.7,-247.0,1 GM,.ROUTE,.STK-MED,VANCOMYCIN HCL,1.2,27.0,80.0,Male,98.7,Cardiac ICU,1000.0,ok
+887140,-3003,Vancomycin - trough,5.1,-3728.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,0.42,9.0,55.0,Male,52.2,CSICU,1000.0,ok
+887140,1402,Vancomycin - trough,11.3,-2932.0,"1,000 mg",IVPB,Q8H,VANCOmycin 1 GM in NS 250 mL IVPB,0.64,9.0,55.0,Male,52.2,CSICU,1000.0,ok
+887140,-1492,Vancomycin - trough,11.3,-2932.0,"1,000 mg",IVPB,Q8H,VANCOmycin 1 GM in NS 250 mL IVPB,0.55,7.0,55.0,Male,52.2,CSICU,1000.0,ok
+1332638,2322,Vancomycin - trough,15.4,1005.0,1250 MG,Intravenous,Daily,vancomycin,1.03,15.0,74.0,Female,85.4,Med-Surg ICU,1250.0,ok
+2134224,3110,Vancomycin - trough,1.9,139.0,1000 MG,IV,q 12 hour,"VANCOMYCIN 1,000 MG IV SOLUTION : 1 EACH VIAL",1.0,12.0,38.0,Male,65.8,Med-Surg ICU,1000.0,ok
+1118949,3217,Vancomycin - random,24.4,1145.0,"1,000 mg",IV,Q12H,vancomycin in D5W (VANCOCIN) ivpb 1 g,0.78,12.0,77.0,Female,85.3,Med-Surg ICU,1000.0,ok
+1118949,5840,Vancomycin - trough,13.3,1145.0,"1,000 mg",IV,Q12H,vancomycin in D5W (VANCOCIN) ivpb 1 g,0.65,9.0,77.0,Female,85.3,Med-Surg ICU,1000.0,ok
+1748443,4982,Vancomycin - trough,11.5,-17.0,1000 MG,IV,Q12H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),0.49,17.0,49.0,Male,61.3,MICU,1000.0,ok
+1748443,2083,Vancomycin - trough,11.8,-17.0,1000 MG,IV,Q12H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),0.49,17.0,49.0,Male,61.3,MICU,1000.0,ok
+1740411,3444,Vancomycin - trough,12.2,-71.0,1000 MG,IV,Q12H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),0.69,19.0,59.0,Male,70.3,SICU,1000.0,ok
+1740411,2209,Vancomycin - trough,25.9,-71.0,1000 MG,IV,Q12H,VANCOMYCIN 1 G MINI-BAG PLUS (VIAL MATE),0.76,38.0,59.0,Male,70.3,SICU,1000.0,ok
+1259537,20919,Vancomycin - trough,14.4,18107.0,1000 MG,IV,Q12H,vancomycin hcl 1000 mg iv solr,0.6,15.0,68.0,Female,63.9,Med-Surg ICU,1000.0,ok
+1259537,17516,Vancomycin - trough,9.9,13877.0,750 MG,IV,Q12H SCH,vancomycin hcl 1000 mg iv solr,0.7,18.0,68.0,Female,63.9,Med-Surg ICU,750.0,ok
+1709991,2888,Vancomycin - trough,49.3,-50.0,1500 MG,IV,,VANCOMYCIN,1.04,9.0,66.0,Male,77.1,Cardiac ICU,1500.0,ok
+1709991,4383,Vancomycin - random,34.8,-50.0,1500 MG,IV,,VANCOMYCIN,4.27,32.0,66.0,Male,77.1,Cardiac ICU,1500.0,ok
+1709991,14760,Vancomycin - trough,12.5,-50.0,1500 MG,IV,,VANCOMYCIN,4.11,56.0,66.0,Male,77.1,Cardiac ICU,1500.0,ok
+3178242,11592,Vancomycin - trough,11.5,6724.0,"1,000 MG",IV,Q8H,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,0.42,8.0,24.0,Male,55.6,SICU,1000.0,ok
+3178242,8170,Vancomycin - trough,13.9,6724.0,"1,000 MG",IV,Q8H,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,0.46,5.0,24.0,Male,55.6,SICU,1000.0,ok
+758325,10967,Vancomycin - trough,18.4,8131.0,"1,000 mg",IVPB,Q12H (int),VANCOmycin 1 GM in NS 250 mL IVPB,0.25,19.0,64.0,Male,63.0,MICU,1000.0,ok
+758327,9373,Vancomycin - trough,21.2,6513.0,"1,000 mg",IVPB,DAILY,VANCOmycin 1 GM in NS 250 mL IVPB,0.39,30.0,64.0,Male,63.0,MICU,1000.0,ok
+970978,-3296,Vancomycin - random,13.7,-4831.0,"2,000 mg",IVPB,,vancomycin,4.22,69.0,70.0,Female,83.15,Med-Surg ICU,2000.0,ok
+970978,-6422,Vancomycin - random,18.6,-8296.0,"2,000 mg",IVPB,Once,vancomycin,5.49,54.0,70.0,Female,83.15,Med-Surg ICU,2000.0,ok
+1117332,5082,Vancomycin - trough,19.7,72.0,750 MG,IV,Q12H,VANCOMYCIN HCL 10 G IV SOLR,0.9,19.0,78.0,Female,47.9,Med-Surg ICU,750.0,ok
+1117332,2203,Vancomycin - trough,13.6,72.0,750 MG,IV,Q12H,VANCOMYCIN HCL 10 G IV SOLR,1.0,19.0,78.0,Female,47.9,Med-Surg ICU,750.0,ok
+1560608,1036,Vancomycin - trough,13.0,-3263.0,1500 MG,Intravenous,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.78,8.0,65.0,Male,80.28,SICU,1500.0,ok
+1560608,12059,Vancomycin - random,16.0,8437.0,1 g,Intravenous,,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,1.58,17.0,65.0,Male,80.28,SICU,1000.0,ok
+1560608,4524,Vancomycin - trough,14.0,1597.0,1750 MG,Intravenous,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,1.34,10.0,65.0,Male,80.28,SICU,1750.0,ok
+1560608,-3366,Vancomycin - trough,11.0,-5453.0,1250 MG,Intravenous,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.79,12.0,65.0,Male,80.28,SICU,1250.0,ok
+1560608,19566,Vancomycin - trough,9.0,16717.0,1500 MG,Intravenous,Q24H,VANCOMYCIN HCL 1000 MG IV SOLR,1.11,16.0,65.0,Male,80.28,SICU,1500.0,ok
+1560608,22449,Vancomycin - trough,13.0,20317.0,750 MG,Intravenous,,VANCOMYCIN HCL 1000 MG IV SOLR,1.01,16.0,65.0,Male,80.28,SICU,750.0,ok
+1560608,8290,Vancomycin - trough,20.0,7597.0,1250 MG,Intravenous,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,1.47,17.0,65.0,Male,80.28,SICU,1250.0,ok
+1560608,11264,Vancomycin - trough,23.0,8437.0,1 g,Intravenous,,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,1.58,17.0,65.0,Male,80.28,SICU,1000.0,ok
+1560608,3714,Vancomycin - trough,25.0,1597.0,1750 MG,Intravenous,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,1.34,10.0,65.0,Male,80.28,SICU,1750.0,ok
+1560608,15063,Vancomycin - trough,5.0,12217.0,"1,000 MG",Intravenous,Q24H,VANCOMYCIN HCL IN DEXTROSE 1 GM/200ML IV SOLN,1.39,24.0,65.0,Male,80.28,SICU,1000.0,ok
+250719,2096,Vancomycin - trough,8.8,676.0,1250 MG,IV,Q12H,"VANCOMYCIN INJ 1,000 MG VIAL.",0.47,14.0,60.0,Male,63.51,Med-Surg ICU,1250.0,ok
+1063405,7748,Vancomycin - random,24.7,5940.0,750 mg,IVPB,Once,vancomycin,7.97,29.0,50.0,Male,59.1,CTICU,750.0,ok
+1062496,7930,Vancomycin - trough,36.5,2290.0,500 mg,IVPB,Once,vancomycin,1.79,72.0,60.0,Female,93.7,CTICU,500.0,ok
+1062496,10245,Vancomycin - random,36.4,2290.0,500 mg,IVPB,Once,vancomycin,1.75,62.0,60.0,Female,93.7,CTICU,500.0,ok
+1062496,11515,Vancomycin - random,26.3,2290.0,500 mg,IVPB,Once,vancomycin,2.03,66.0,60.0,Female,93.7,CTICU,500.0,ok
+1062496,3290,Vancomycin - random,21.3,2290.0,500 mg,IVPB,Once,vancomycin,1.91,67.0,60.0,Female,93.7,CTICU,500.0,ok
+1827722,21412,Vancomycin - trough,14.7,20318.0,1750 MG,IV,Q8H,VANCOMYCIN HCL 1000 MG IV SOLR,0.59,7.0,37.0,Male,104.3,Med-Surg ICU,1750.0,ok
+1827722,19823,Vancomycin - trough,5.9,18353.0,1750 MG,IV,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.67,11.0,37.0,Male,104.3,Med-Surg ICU,1750.0,ok
+1827722,17603,Vancomycin - trough,5.1,16253.0,1500 MG,IV,Q12H,VANCOMYCIN HCL 1000 MG IV SOLR,0.7,11.0,37.0,Male,104.3,Med-Surg ICU,1500.0,ok
+733082,1696,Vancomycin - random,9.9,-9.0,"1,250 mg",IVPB,Q48H,VANCOmycin 1.25 GM in NS 500ML IVPB,1.46,36.0,68.0,Female,70.6,Med-Surg ICU,1250.0,ok
+733082,3241,Vancomycin - random,14.0,1971.0,"1,500 mg",IVPB,Q48H,VANCOmycin 1.5 GM in NS 500ML IVPB,0.94,27.0,68.0,Female,70.6,Med-Surg ICU,1500.0,ok
+205096,927,Vancomycin - random,16.0,-1083.0,1000 MG,IV,Q48H,VANCOMYCIN HCL 1000 MG IV SOLR,3.03,20.0,46.0,Female,45.8,Med-Surg ICU,1000.0,ok
+926319,2741,Vancomycin - trough,15.2,1251.0,"1,000 mg",IVPB,Q12H,VANCOmycin 1 GM in NS 250 mL IVPB,0.65,19.0,78.0,Female,74.9,Med-Surg ICU,1000.0,ok
+223787,5157,Vancomycin - random,18.5,4027.0,"1,250 3",IV,BID,VANCOMYCIN 1.25 GM IN NS 250 ML IVPB (REPACKAGE),0.88,7.0,83.0,Male,,Med-Surg ICU,1250.0,ok_trailing_code
+977927,9894,Vancomycin - trough,16.4,4664.0,250 mg,PO,q6hr,vancomycin,1.19,18.0,68.0,Male,60.0,Cardiac ICU,250.0,ok
+977927,5414,Vancomycin - random,14.4,4664.0,250 mg,PO,q6hr,vancomycin,1.15,21.0,68.0,Male,60.0,Cardiac ICU,250.0,ok
+896028,5488,Vancomycin - trough,18.7,2623.0,"1,500 mg",IVPB,Q12H,VANCOmycin 1.5 GM in NS 500ML IVPB,0.52,18.0,64.0,Male,56.3,Med-Surg ICU,1500.0,ok
